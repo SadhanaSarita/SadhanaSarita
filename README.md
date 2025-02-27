@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**SadhanaSarita/SadhanaSarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
+I'm Sadhana Nautiyal
+A passionate developer from India
+🔭 I’m currently working on - LLM's
+🌱 I’m currently learning - Advanced Computer Vision, LLM Fine-tuning, Full-Stack Development
+👯 I’m looking to collaborate on - AI & ML Projects related to **Human-Computer Interaction** - Open-source contributions in Python & Computer Vision
+💬 Ask me about - Python, OpenCV, AI & Machine Learning, Competitive Coding
+📫 How to reach me iamsadhananautiyal1@gmail.com
+Connect with me:
+username
+Languages and Tools:
+cplusplus
+html5
+java
+javascript
+python
