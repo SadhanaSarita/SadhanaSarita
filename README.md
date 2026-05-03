@@ -2,11 +2,8 @@
 
 <!-- <img src="./banner.png" width="100%" /> -->
 <img width="1774" height="887" alt="7d450b73-dc4e-4382-9199-6a20772e3e49" src="https://github.com/user-attachments/assets/d08c3734-e680-49a5-8f19-eda7099842a8" />
-# Hi 👋, I'm Sadhana Nautiyal
 
-### 🧠 AI & Data Science Enthusiast | 💻 CSE Student | 🚀 Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Explorer;Data+Science+Learner;Python+Developer;Future+Software+Engineer&center=true&width=550&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Data+Science+Explorer;Python+Developer;Future+Data+Analyst&center=true&width=550&height=45">
 
 </div>
 
@@ -25,15 +22,26 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Programming Languages
+
+Python • SQL • C++
+
+📚 Libraries
+
+Pandas • NumPy • Matplotlib • OpenCV 
+
+🧰 Tools & Platforms
+
+Git • GitHub • Jupyter • Google Colab
+
+📊 Data Visualization
+
+Power BI • Tableau
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github" /><br>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,jupyter,powerbi,tableau" /><br>
 <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
-
-**Libraries & Tools:**
-Pandas • NumPy • Matplotlib • OpenCV • Jupyter • Google Colab 
 
 ---
 
@@ -71,16 +79,6 @@ Pandas • NumPy • Matplotlib • OpenCV • Jupyter • Google Colab
 * 🥈 HackerRank **Silver Badge (SQL)**
 * 🏛️ IIMUN Delegate
 * 🎤 Active in Debating Competitions
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<br/> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
