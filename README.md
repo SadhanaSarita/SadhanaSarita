@@ -9,8 +9,6 @@
 ---
 
 ## 🌸 About Me
-<img width="300" height="300" alt="1776448571873" src="https://github.com/user-attachments/assets/e1e992d8-dc12-45fd-8adc-08c9cd69bfe1" />
-
 * 🎓 B.Tech CSE @ College of Engineering, Roorkee (**CGPA: 9.52**)
 * 🤖 Passionate about **Artificial Intelligence & Data Science**
 * 📊 Love working with **data-driven decision systems**
