@@ -10,9 +10,7 @@
 ---
 
 ## 🌸 About Me
-
-<img align="right" alt="coding" width="250" src="./profile.png"/>
-
+![Uploading 1776448571873.jpg…]()
 * 🎓 B.Tech CSE @ College of Engineering, Roorkee (**CGPA: 9.52**)
 * 🤖 Passionate about **Artificial Intelligence & Data Science**
 * 📊 Love working with **data-driven decision systems**
@@ -81,19 +79,25 @@ Power BI • Tableau
 * 🎤 Active in Debating Competitions
 
 ---
-
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> • 
-<a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> • 
-<a href="mailto:iamsadhananautiyal1@gmail.com">Email</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:iamsadhananautiyal1@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
-
----
-
-## ✨ Profile Views
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
