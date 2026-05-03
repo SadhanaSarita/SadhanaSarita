@@ -84,12 +84,12 @@ Power BI • Tableau
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SadhanaSarita">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/sadhana-nautiyal/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;&nbsp;&nbsp;
