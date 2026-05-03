@@ -98,7 +98,7 @@ Power BI • Tableau
 
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=ff69b4&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=SadhanaSarita&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
 
 ---
