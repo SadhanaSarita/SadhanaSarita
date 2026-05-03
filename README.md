@@ -39,12 +39,7 @@ Power BI • Tableau
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,jupyter" /><br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="45"/>
-&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="45"/>
-
-</p>
 </p>
 
 ---
