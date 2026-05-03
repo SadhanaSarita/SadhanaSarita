@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" />
-
+<!-- <img src="./banner.png" width="100%" /> -->
+<img width="1774" height="887" alt="7d450b73-dc4e-4382-9199-6a20772e3e49" src="https://github.com/user-attachments/assets/d08c3734-e680-49a5-8f19-eda7099842a8" />
 # Hi 👋, I'm Sadhana Nautiyal
 
 ### 🧠 AI & Data Science Enthusiast | 💻 CSE Student | 🚀 Problem Solver
