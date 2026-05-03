@@ -2,7 +2,6 @@
 
 <!-- <img src="./banner.png" width="100%" /> -->
 <img width="1774" height="887" alt="7d450b73-dc4e-4382-9199-6a20772e3e49" src="https://github.com/user-attachments/assets/d08c3734-e680-49a5-8f19-eda7099842a8" />
-
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Data+Science+Explorer;Python+Developer;Future+Data+Analyst&center=true&width=550&height=45">
 
 </div>
@@ -10,7 +9,8 @@
 ---
 
 ## 🌸 About Me
-![Uploading 1776448571873.jpg…]()
+<img width="400" height="400" alt="1776448571873" src="https://github.com/user-attachments/assets/e1e992d8-dc12-45fd-8adc-08c9cd69bfe1" />
+
 * 🎓 B.Tech CSE @ College of Engineering, Roorkee (**CGPA: 9.52**)
 * 🤖 Passionate about **Artificial Intelligence & Data Science**
 * 📊 Love working with **data-driven decision systems**
@@ -37,8 +37,12 @@ Git • GitHub • Jupyter • Google Colab
 Power BI • Tableau
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,jupyter,powerbi,tableau" /><br>
-<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,jupyter" /><br><br>
+
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tableau/E97627" height="40" />
+
 </p>
 
 ---
