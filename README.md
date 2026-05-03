@@ -36,11 +36,15 @@ Git • GitHub • Jupyter • Google Colab
 
 Power BI • Tableau
 <p align="center">
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,jupyter" /><br><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="45"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="45"/>
+
+</p>
 </p>
 
 ---
