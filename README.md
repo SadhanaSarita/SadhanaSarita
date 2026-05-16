@@ -40,25 +40,6 @@ Power BI • Tableau
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="45"/>
 </p>
 
----
-
-## 🚀 Projects
-
-### 🔹 Disaster Risk Prediction System
-
-* Building a **disaster risk prediction system for Uttarakhand,India**
-* Uses **climatic, seismic & historical data**
-* Working on **victim detection + alert system** using AI
-
----
-
-### 🔹 Customer Behavior Analysis
-
-* Analyzing patterns in user data
-* Applying **data analytics techniques for insights**
-
----
-
 ## 📜 Certifications
 
 * 🏅 Oracle Cloud Infrastructure 2025 – AI Foundations
